@@ -47,9 +47,7 @@ Run your fleet by talking to it. Claude, Codex, Cursor or any other MCP client c
 | What | Repository |
 |---|---|
 | Plugins that add integrations to a Thinger.io server | [plugins](https://github.com/thinger-io/plugins) |
-| Node.js SDK for the REST API | [thinger-node](https://github.com/thinger-io/thinger-node) |
 | Node-RED nodes | [node-red-contrib-thinger](https://github.com/thinger-io/node-red-contrib-thinger) |
-| n8n nodes | [n8n-nodes-thinger](https://github.com/thinger-io/n8n-nodes-thinger) |
 | VS Code extension for OTA updates | [vscode-extension](https://github.com/thinger-io/vscode-extension) |
 | Modern C++20 HTTP/WebSocket library | [thinger-http](https://github.com/thinger-io/thinger-http) |
 
